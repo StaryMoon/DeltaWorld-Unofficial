@@ -14,6 +14,25 @@
 
 > This is an **unofficial** implementation maintained by [@StaryMoon](https://github.com/StaryMoon). If this repository helps your reading, reproduction, or course project, please consider giving it a star and following my GitHub profile.
 
+## Paper / Project Preview
+
+<p align="center">
+  <img src="assets/paper-preview.png" alt="DeltaWorld-Unofficial paper or project page preview" width="900">
+</p>
+
+<sub>Image source: public paper/project page screenshot, [Project / Reference](https://deltatok.github.io/). Captured/organized on 2026-07-02. This repository is unofficial and is not affiliated with the paper authors.</sub>
+
+## At a Glance
+
+| Item | Details |
+|---|---|
+| Paper | A Frame Is Worth One Token: Efficient Generative World Modeling with Delta Tokens |
+| Venue / Source | CVPR 2026 Highlight |
+| Focus | This repository organizes a PyTorch implementation for A Frame Is Worth One Token: Efficient Generative World Modeling with Delta Tokens, focusing on efficient generative world... |
+| Repository type | Unofficial PyTorch reproduction starter |
+| Local entry point | `python scripts/smoke_test.py` |
+
+
 ## News
 
 - **2026-06-10**: Initial public release with model interfaces, configuration, smoke test, and reproduction roadmap.
